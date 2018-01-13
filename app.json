@@ -1,7 +1,7 @@
 {
-  "name": "Barebones Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/mmitrasl/barebones-node-heroku-app",
+  "name": "Cryptokebab",
+  "description": "A barebones Node.js stupid app using Express 4",
+  "repository": "https://github.com/mmitrasl/cryptokebab-node-heroku-app",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
 }
